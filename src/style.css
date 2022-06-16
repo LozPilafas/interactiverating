@@ -99,13 +99,11 @@ button{
 
 
 .container-box button{
-    margin-inline: 10px;
     margin-block: 20px;
-    padding-inline: 15px;
     padding-block: 12px;
     box-shadow: none;
     background-color: hsl(25, 97%, 53%);
-    width:-webkit-fill-available;
+    width:100%;
     text-align: center;
     letter-spacing:3px;
     border-radius: 25px;
